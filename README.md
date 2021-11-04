@@ -1,4 +1,4 @@
-# Data Focused Python final project: Go Freshmen
+# Data Focused Python Final Project: Go Freshmen
 
 ### Brief Introduction:
 Our product aims to help CMU freshmen settle down in Pittsburgh easily. This is an integrated information platform that provides three aspects of information: safety and health, restaurant recommendation, and apartments renting. In safety and health sector, covid-19 confirmed cases and crime statistics are provided and they are divided by neighborhood. In restaurant recommendation sector, we provide restaurant information categorized by distance to CMU campus, prices, and ratings. In apartments renting sector, we provide data of apartments for rent nearby CMU campus.
